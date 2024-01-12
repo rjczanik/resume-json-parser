@@ -3,8 +3,10 @@ import os
 from pathlib import Path
 import time
 
+# Decalring the OpenAI client that uses a specific API key
 client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
+# This is the declaration of the assistant that is used to extract the data from the resume
 assistant = client.beta.assistants.create(
         name='Resume Editor',
 		model='gpt-4-1106-preview',
@@ -15,35 +17,34 @@ assistant = client.beta.assistants.create(
         tools=[{'type': 'code_interpreter'}]
 	)
 
-
-# with open('data/resume-format.json') as f:
-#     resume_format = f.read()
-# open(
-#     file=Path('data/resume-format.json'),
-#     purpose='fine-tune')
-
+# This is the declaration of the file that is used to store the resume format
 resume_format = client.files.create(
     file=open('data/resume-format.json', 'rb'),
     purpose='assistants')
-
+# This is the declaration of the file from which the resume is extracted
 resume_file = client.files.create(
     file=open('data/robert_czanik.docx', 'rb'),
     purpose='assistants')
 
-thread = client.beta.threads.create()
 
+# This is the declaration of the thread that is used to communicate with the assistant
+thread = client.beta.threads.create()
+# This is the declaration of the message giving a description of the format layout that is sent to the assistant
 message = client.beta.threads.messages.create(
     thread_id=thread.id,
     role='user',
     content=f'This is the declarative resume format that you should follow. This format is strict and you should not deviate from it. All output should be in this format.',
     file_ids=[resume_format.id])
 
+# This is the declaration of the message which refers to the docx file that is sent to the assistant
 message = client.beta.threads.messages.create(
     thread_id=thread.id,
     role='user',
     content=f'Extract all of the text from the DOCX file and return it as a JSON object. Do not give the output as a download link, but give it as text explicitly.',
     file_ids=[resume_file.id])
 
+
+# This is the declaration of the run that is used to run the assistant
 run = client.beta.threads.runs.create(
     thread_id=thread.id,
     assistant_id=assistant.id,
@@ -51,6 +52,7 @@ run = client.beta.threads.runs.create(
 )
 
 
+# This is the declaration of the actual run that is executed by the assistant
 start_time = time.time()
 while run.status!= "completed":
     run = client.beta.threads.runs.retrieve(
@@ -63,29 +65,9 @@ while run.status!= "completed":
 
 end_time = time.time()
 
+# This is the declaration of the message that is sent to the user and the output delivered.
 messages = client.beta.threads.messages.list(
     thread_id=thread.id
 )
 
 print(messages)
-
-# print("upload of resume format file's results: " + str(results_format) + "\n")
-# print("file_id: " + results_format.id)
-
-# results_format = client.fine_tuning.create(training_file=results_format.id, model=config.BASE_MODEL)
-# print("fine-tuning results: " + str(results_format) + "\n")
-# print("\nUse the following command to check the status of your fine-tuning job:")
-# print(f"python openai-chat.py --state {results_format.id}")    
-
-# print("upload of resume docx file's results: " + str(resume_file) + "\n")
-# print("file_id: " + results_resume.id)
-# results_resume = client.fine_tuning.create(training_file=results_resume.id, model=config.BASE_MODEL)
-# print("fine-tuning results: " + str(results_resume) + "\n")
-# print("\nUse the following command to check the status of your fine-tuning job:")
-# print(f"python openai-chat.py --state {results_resume.id}")    
-
-
-
-# # if args.state:
-# results = openai.FineTuningJob.retrieve(args.state)
-# print('fine-tuning state: ' + str(results)+'\n')
