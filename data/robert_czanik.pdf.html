@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Robert J Czanik, Ph.D.</title>
+    <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;600&family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <style>html, body, main, section, header, ul, p, h1, h2, h3 {
+  font-family: 'Poppins', 'sans-serif';
+  font-size: 14px;
+  margin: 0; padding: 0;
+  display: block;
+  color: #1D1D1B;
+}
+
+::selection {
+  color: #fff;
+  background: #00ACA9; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  color: #fff;
+  background: #00ACA9; /* Gecko Browsers */
+}
+
+p::selection {
+  color: #fff;
+}
+
+p {
+  padding-bottom: 1em;
+}
+
+a {
+  color: #00ACA9;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #00ACA9;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: 'Maven Pro', 'Poppins', 'Helvetica', 'Lato', 'sans-serif';
+  font-size: 2.5em;
+  font-weight: 600;
+  float: left;
+}
+
+h2 {
+  font-family: 'Maven Pro', 'Poppins', 'Helvetica', 'Lato', 'sans-serif';
+  text-transform: uppercase;
+  color: #00ACA9;
+  font-size: 2em;
+  position: relative;
+  font-weight: 600;
+}
+
+h3, .tenure {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  /*width: 85%;*/
+  float: left;
+}
+
+table {
+  width: 100%;
+  text-transform: uppercase;
+  margin-top: 1em;
+}
+
+td:first-child {
+  letter-spacing: 2px;
+  font-size: 1.1em;
+}
+
+td:last-child {
+  text-align: justify; /* HTML justification sucks, but in this case... */
+}
+
+hr {
+  display: none;
+}
+
+main {
+  padding: 15px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+section {
+  margin-top: 2em;
+}
+
+section > div {
+  margin-top: 2em;
+  overflow: hidden; /* Clear floated children */
+}
+
+section > div p {
+  clear: both;
+}
+
+section > header {
+  position: relative;
+}
+
+p + ul {
+  margin: 0 1em 1em 1em;
+}
+
+ul {
+  clear: both;
+}
+
+li {
+  margin-left: 2em;
+}
+
+p, li {
+  text-align: justify;
+}
+
+.tenure {
+  float: right;
+  color: #6F6F6F;
+  background-color: #F5F5F5;
+  border-radius: 6px;
+  padding: 4px 6px;
+  font-size: 0.75em;
+  font-weight: 600;
+  margin-top: 3px;
+}
+
+.location, .keyword {
+  border:#00ACA9 dashed 1px;
+  background-color: #ffffff;
+  padding: 3px 6px;
+  border-radius: 6px;
+  margin-right: 5px;
+  font-size: 0.75em;
+  color: #00ACA9;
+  font-weight: 500;
+  margin-top: 3px;
+}
+
+.location {
+  float: right;
+}
+
+.keyword {
+  float: left;
+}
+
+.keywords {
+  float: right;
+}
+
+thead {
+  display: none;
+}
+
+main > header {
+  width: 100%;
+  float: left;
+  margin-bottom: 1em;
+}
+
+.label {
+  font-size: 2.5em;
+  font-weight: 400;
+  font-family: 'Maven Pro', 'Poppins', 'Helvetica', 'Lato', 'sans-serif'
+}
+
+#contact {
+ clear: both;
+ float: right;
+ margin-top: 2px;
+}
+
+#contact span + span {
+  margin-left: 10px;
+}
+
+header > span.fa {
+  text-align: center;
+  margin-right: 3px;
+  position: absolute;
+  width: 40px;
+  top: 8px;
+  font-size: 2em;
+  /*transform: translateX(-110%); PDF no likey */
+  margin-left: -50px;
+  color: #DADADA;
+}
+
+.label {
+  float: right;
+  color: #DADADA;
+}
+
+#summary {
+  color: #2f4858;
+  font-size: 1.2em;
+  margin-top: 6em;
+}
+
+#summary p {
+  color: #2f4858;
+  font-size: 1em;
+}
+
+#references > p, #references > p > a {
+  color: #00ACA9;
+  text-align: center;
+  margin: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}</style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Robert J Czanik, <span style="color: #00ACA9;">Ph.D.</span></h1>
+        <span class="label">ML Engineer</span>
+        <p id="contact">
+          <span class="email"><a href="mailto:robert@skyworkz.nl"><a href="mailto:robert@skyworkz.nl">robert@skyworkz.nl</a></a></span>
+          
+          
+        </p>
+      </header>
+
+
+      <section id="summary">
+        I am an experienced machine learning engineer who has worked on numerous data science solutions for multiple companies and clients.
+ My main focus is providing end-to-end cloud-based solutions to clients. This all is done by doing all the work needed for conceptualizing, developing, and productization of a machine learning solution. I also have the certifications to back up my skillset: MLOps, data science, data engineering, and full-stack cloud development. My background is in open-source technologies, mainly on the Linux-tech stack. Of these technologies I the am strongest in RDMS, Python, R, ETL and the development of data science use cases as web-apps. 
+ My most recent experience lies in working as an MLOps engineer, where data science use cases are developed to completion and put into a production state.
+ I am also a strong leader with a strategic and entrepreneurial mindset; Enabling me to have also led teams in building solutions using Agile and Scrum. As a strong communicator I had no challenge in regular engagements with stakeholders, technical teams, and the delivery team. Which also requires me to listen to all parties involved and to understand the problem holisticaly. This is done by creating a lateral understanding of a problem and develop the best outcome, and elegant solution for any client.
+      </section>
+
+
+
+
+
+      
+      <hr>
+      <section id="skills">
+          <header>
+            <span class="fa fa-lg fa-code"></span>  <h2>skills</h2>
+          </header>
+        <table>
+          <thead>
+            <tr>
+              <th>Skill</th>
+              <th>Keywords</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="width: 20%">Azure</td>
+              <td class="keywords"><div class="keyword">Synapse</div><div class="keyword">Dev Ops</div><div class="keyword">Data factory</div><div class="keyword">SQL server</div><div class="keyword">AKS</div><div class="keyword">Azure Functions</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">AWS</td>
+              <td class="keywords"><div class="keyword">Red Shift</div><div class="keyword">Lambda</div><div class="keyword">EC2</div><div class="keyword">S3</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">IBM Cloud</td>
+              <td class="keywords"><div class="keyword">OpenShift</div><div class="keyword">Dev Ops</div><div class="keyword">Functions</div><div class="keyword">Watson Studio</div><div class="keyword">NLU</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">ML suites</td>
+              <td class="keywords"><div class="keyword">TensorFlow</div><div class="keyword">PyTorch</div><div class="keyword">NumPy</div><div class="keyword">SciPy</div><div class="keyword">PySpark</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">Visualization</td>
+              <td class="keywords"><div class="keyword">Matplotlib</div><div class="keyword">Seaborn</div><div class="keyword">Tableau</div><div class="keyword">ggplot2</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">ML Methods</td>
+              <td class="keywords"><div class="keyword">Time Series</div><div class="keyword">Deep Learning</div><div class="keyword">Clustering</div><div class="keyword">Computer Vision</div><div class="keyword">NLP</div><div class="keyword">Regression</div><div class="keyword">GenAI</div><div class="keyword">LLM</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">Databases</td>
+              <td class="keywords"><div class="keyword">Elastic search</div><div class="keyword">SQL Server</div><div class="keyword">PostgreSQL</div><div class="keyword">DataBricks</div><div class="keyword">Apache Spark</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">Containers</td>
+              <td class="keywords"><div class="keyword">Vagrant</div><div class="keyword">Kubernetes</div><div class="keyword">Docker</div><div class="keyword">Keda.sh</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">Methodologies</td>
+              <td class="keywords"><div class="keyword">Agile</div><div class="keyword">DevOps</div><div class="keyword">MLOps</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">Infra as code</td>
+              <td class="keywords"><div class="keyword">Ansible</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">Programming</td>
+              <td class="keywords"><div class="keyword">Python</div><div class="keyword">Bash</div><div class="keyword">Typescript</div><div class="keyword">Javascript</div><div class="keyword">Java</div><div class="keyword">Scala</div><div class="keyword">PowerShell</div></td>
+            </tr>
+            <tr>
+              <td style="width: 20%">Soft skills</td>
+              <td class="keywords"><div class="keyword">Leadership</div><div class="keyword">Strategic Thinking</div><div class="keyword">Solution Architecting</div><div class="keyword">Enterpreneurial</div></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      
+      <hr>
+      <section id="employment">
+          <header>
+            <span class="fa fa-lg fa-building"></span>  <h2>employment</h2>
+          </header>
+          <div>
+            <h3>Cloud/Data Engineer,
+              <a href="https://skyworkz.nl/">Skyworkz</a>
+              </h3>
+              <span class="tenure">2023-01 — Present</span>
+              <span class="location">Utrecht, Netherlands</span>
+            <p><p>Skyworkz is a boutique cloud consultancy based in Utrecht and helps companies in their Cloud journey. In my role as a machine learning engineer I help companies by building data science focused solutions primarily in the cloud. Working for Skyworkz gives me an significant advantage: I can use the the experience of brilliant colleagues as reference over a large range of technologies. This enables me to develop the highest quality solutions for clients and keep improving delivery.</p>
+      </p>
+            
+          </div>
+          <div>
+            <h3>Senior Machine Learning Engineer,
+              <a href="https://www.union-investment.com/">Union Investment (via Skyworkz)</a>
+              </h3>
+              <span class="tenure">2023-02 — 2023-09</span>
+              <span class="location">Remote, client in Germany</span>
+            <p><p>For the period spent at Union-Investment I worked as a staff engineering that supported a larger team in the design and development of a machine learning based stock price validation system from various stock price providers. The system worked on a principle of streaming prices received from various stock brokers over an Azure service bus through a verification model. The price validator would receive feedback from end-user stock brokers that would indicate if prices validated by the model were correct. The retraining, serving and deployment of the model was automated. For a newly trained model to have been deployed to production a performance report was sent with a Jira ticket to the business department to accpet or reject.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>Doing the solutions architecture of the retraining of a new model and the deployment of the model to production.</li>
+              <li>Developing KEDA-based services that provide model predictions via streaming records to and from Azure service bus.</li>
+              <li>Develop a service that deploys the latest version of a model to production or rollback to a previous version used in production on demand.</li>
+            </ul>
+            <div class="keyword">Azure DevOps</div><div class="keyword">MLflow</div><div class="keyword">Azure Machine Learning Studio</div><div class="keyword">Keda</div><div class="keyword">Azure Service Bus</div><div class="keyword">SQL Server</div><div class="keyword">Event based architecture</div>
+          </div>
+          <div>
+            <h3>Machine Learning engineer,
+              <a href="https://www.abnamro.com/en/home">ABN Amro (via Capgemini)</a>
+              </h3>
+              <span class="tenure">2022-09 — 2022-12</span>
+              <span class="location">Utrecht, Netherlands</span>
+            <p><p>I worked as a part of ABN AMRO ML-Engineering&#39;s Centre of Excellence, which is a central team serving the whole bank&#39;s data science engineering needs. Across the bank there are various data science teams who develop use cases that serve internal or clients with improving value. The engineering part of the journey is all run on the Azure stack, where airflow is used to run the workflows for data science use cases seemlessly and MLflow is used to track and give feedback to data science teams on model performance.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>Taking various new use cases from either POC or MVP state to production ready.</li>
+              <li>Serving as a single point of contact for very specialised data science teams their engineering needs during deployment.</li>
+            </ul>
+            <div class="keyword">Azure Dev Ops</div><div class="keyword">MLflow</div><div class="keyword">Airflow</div><div class="keyword">Python</div><div class="keyword">Databricks</div>
+          </div>
+          <div>
+            <h3>TAM+Machine Learning engineer,
+              <a href="https://logius.nl/">Logius (via Capgemini)</a>
+              </h3>
+              <span class="tenure">2022-04 — 2022-08</span>
+              <span class="location">Den Haag, Netherlands</span>
+            <p><p>Logius run specific systems for the &#39;Ministerie van Binnenlandse Zaken&#39; on a virtual cloud-based in AWS. To monitor the performance of the system the ELK stack is used for logging data. To determine when the system might become heavy under load demand a toy model was built to show whether the system could fall over in periods of high demand, and plan upscaling the system before such events occurred. This was done using the ELK stack&#39;s machine-learning libraries.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>Supported the infastructure and server runtime on the servers running kubernetes clusters</li>
+              <li>Developed a toy model that makes recommendations for system configurations based on performance demand.</li>
+            </ul>
+            <div class="keyword">ELK</div><div class="keyword">RHEL</div><div class="keyword">Ansible</div><div class="keyword">AWS</div>
+          </div>
+          <div>
+            <h3>Machine Learning engineer,
+              <a href="https://www.nn-group.com/home.htm">Nationale Nederlanden (via Capgemini)</a>
+              </h3>
+              <span class="tenure">2022-01 — 2022-03</span>
+              <span class="location">Den Haag, Netherlands</span>
+            <p><p>I designed and developed a time series based POC solution for Nationale Nederlanden, which predicted the number of offices occupiers to their main offices. This was a time series based regression model predicting the maximum number of offices workers expected in their office facilities.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>The POC model was up to 78% accurate during corona times and was put into production.</li>
+            </ul>
+            <div class="keyword">Databricks</div><div class="keyword">Azure Data Factory</div>
+          </div>
+          <div>
+            <h3>Data engineer,
+              <a href="https://mwingz.be/">MWingz (via Capgemini)</a>
+              </h3>
+              <span class="tenure">2021-11 — 2021-12</span>
+              <span class="location">Den Haag, Netherlands</span>
+            <p><p>In a project with a Belgium telecoms company, Mwingz I worked on the design and development of extracting metadata from legacy XML files to a Dynamics 365 data warehouse on Azure.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>The ETL operation significantly increased the transfer time fot the business from the legacy system.</li>
+            </ul>
+            <div class="keyword">Databricks</div><div class="keyword">Azure Data Factory</div><div class="keyword">Dynamics 365 database</div><div class="keyword">XML</div>
+          </div>
+          <div>
+            <h3>Senior Consultant | Cloud DevOps/Machine Learning engineer,
+              <a href="https://www.linkedin.com/company/capgemini/">Capgemini</a>
+              </h3>
+              <span class="tenure">2021-11 — 2022-12</span>
+              <span class="location">Utrecht, Netherlands</span>
+            <p><p>On internal projects, I developed an NLP sentiment analysis model for healthcare providers based on the Dutch website <code>zorgkaartnederland.nl</code>, where subjects that are a concern in the healthcare system by the larger public were highlighted. Followed by a project for the internal subsidiary team where the ratio of flora against paving is identified from optical and infrared images, which would help trace possible causes for flooding events during extreme weather events.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>Lead two junior data scientist in developing part of a computer vision idetifying objects in gardens model using satelite images.</li>
+              <li>Developed a POC that highlighted subjects/areas of the Dutch healthcare system that could be improved on based on online healthcare providors.</li>
+            </ul>
+            <div class="keyword">TensorFlow</div><div class="keyword">NLP</div><div class="keyword">Satelite Imaging</div><div class="keyword">Sentiment Analysis</div>
+          </div>
+          <div>
+            <h3>Technical Lead,
+              <a href="https://www.linkedin.com/company/explore-ai/">EXPLORE-AI</a>
+              </h3>
+              <span class="tenure">2021-03 — 2021-10</span>
+              <span class="location">Durban, South Africa (Remote)</span>
+            <p><p>I lead two teams building analytics tools for a large water utility company in the UK. the first data product generated reports that were sent to environmental groups and regulators. The second product generated analytics reports on both clean and wastewater asset reporting of alarms across the whole network of the water utility.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>Designed and lead a team of six developing one MVP to completion, in time and in budget.</li>
+              <li>Designed and lead a team of eight while training a new technical lead up the a point shortly before completion of another MVP.</li>
+            </ul>
+            <div class="keyword">Databricks</div><div class="keyword">Azure data factory</div><div class="keyword">React</div><div class="keyword">SQL Server</div>
+          </div>
+          <div>
+            <h3>Senior Data Scientist,
+              <a href="https://www.linkedin.com/company/explore-ai/">Explore-AI</a>
+              </h3>
+              <span class="tenure">2020-10 — 2021-02</span>
+              <span class="location">Durban, South Africa (Remote)</span>
+            <p><p>I helped a data engineering team maintain our Databricks environment on the Azure cloud platform for a large water utility company. I also looked into time series based datasets from which asset failures were supposed to identify failing assets.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>Spontanious time serious analysis of assets highlighted when assets most likely failed</li>
+              <li>Helped with the upgrade and testing of Databricks environment across the whole organisation to a new LTS version.</li>
+            </ul>
+            <div class="keyword">Databricks</div><div class="keyword">PySpark</div><div class="keyword">Times series</div>
+          </div>
+          <div>
+            <h3>Data Scientist/Analyst,
+              <a href="https://www.linkedin.com/company/thoroughtec-simulation/">ThoroughTec Simulation</a>
+              </h3>
+              <span class="tenure">2019-11 — 2020-10</span>
+              <span class="location">Durban, South Africa</span>
+            <p><p>ThoroughTech simulation is a company that builds simulators of large land vehicles used in the mining industry. As part of their product line of providing driver training, and online training management system (TMS) was planned and developed. As part of this training product and IoT device monitoring, driver behaviour would be developed. This device would be attached to a truck and monitor if someone drove an unsafe manner.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>Primarily wrote SQL stored procedures used for aggregation and data analytics</li>
+              <li>Containerised the solution</li>
+            </ul>
+            <div class="keyword">SQL Server</div><div class="keyword">Synthetic datasets</div><div class="keyword">Times series</div><div class="keyword">Docker</div><div class="keyword">IoT</div>
+          </div>
+          <div>
+            <h3>Data Scientist,
+              <a href="https://www.linkedin.com/company/vantage-data/">Vantage Data</a>
+              </h3>
+              <span class="tenure">2019-03 — 2019-08</span>
+              <span class="location">Durban, South Africa</span>
+            <p><p>I worked on various time-series analysis in Alteryx, Python and R. The main focus was to model demand forecasting figure for a major retail supplier of fast-moving consumer goods.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>The model, which was a hybrid model of an XGBOOST regression and LSTM deep learning model which was accurate up to 90% for their 12-month and 52-week prediction figures</li>
+            </ul>
+            <div class="keyword">Time Series</div><div class="keyword">Deep learning</div><div class="keyword">Predictive Analytics</div>
+          </div>
+          <div>
+            <h3>Data Engineer,
+              <a href="https://www.linkedin.com/company/blake-group/">Blake Group</a>
+              </h3>
+              <span class="tenure">2018-10 — 2019-03</span>
+              <span class="location">Durban, South Africa</span>
+            <p><p>The Blake Group is primarily a debt collection company that also hosts some digital products. One of these products, WiFire provides free WiFi access in large shopping centers. The primary selling point of the WiFi service is targeted online advertising to users of the WiFi network, based on identifying user interests.</p>
+      </p>
+            <p>Highlights:</p>
+            <ul>
+              <li>I optimize and maintain ETL data pipelines running data on AWS EC2 VMs. The pipelines transmuted the URLs visited by each user of the WiFi network and matched them with previous instances of the same users on the network.</li>
+              <li>I developed a POC which identifies a user’s interests based on the content of unencrypted URLs that they visited.</li>
+              <li>The POC application was written in the form of a Python web scraper together with an interest builder running a NLP model.</li>
+            </ul>
+            
+          </div>
+      </section>
+
+      
+
+      
+      <hr>
+      <section id="education">
+          <header>
+            <span class="fa fa-lg fa-mortar-board"></span>  <h2>education</h2>
+          </header>
+          <div>
+            <h3>North-West University</h3>
+            <span class="tenure">2013-12 — 2019-12</span>
+            
+             <p>Doctor of Philosophy - PhD: Space Physics</p>
+      
+            
+          </div>
+          <div>
+            <h3>North-West University</h3>
+            <span class="tenure">2011-12 — 2012-12</span>
+            
+             <p>MSc:Astrophysics</p>
+      
+            
+          </div>
+          <div>
+            <h3>North-West University</h3>
+            <span class="tenure">2009-12 — 2010-12</span>
+            
+             <p>BSc. Hons: Physics</p>
+      
+            
+          </div>
+          <div>
+            <h3>North-West University</h3>
+            <span class="tenure">2006-12 — 2008-12</span>
+            
+             <p>BSc: Physics-Mathematics and Applied mathematics</p>
+      
+            
+          </div>
+      </section>
+
+      
+      <hr>
+      <section id="recognition">
+          <header>
+            <span class="fa fa-lg fa-trophy"></span>  <h2>certification</h2>
+          </header>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3WYSD7BL8NHF">Machine Learning Engineering for Production (MLOps) Specialization</a></em>, Coursera/Deeplearining.ai</h3>
+          <span class="tenure">2022</span>
+          
+          </div>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QQ837H3P3D8Q">Java Programming and Software Engineering Fundamentals Specialization</a></em>, Coursera/Duke University</h3>
+          <span class="tenure">2022</span>
+          
+          </div>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/AGSTB5LXEBAL">Applied Cloud Development Specialization</a></em>, Coursera/IBM</h3>
+          <span class="tenure">2022</span>
+          
+          </div>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DEJMN8KC6TMB">IBM Full Stack Software Developer Specialization</a></em>, Coursera</h3>
+          <span class="tenure">2022</span>
+          
+          </div>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/23N3QAQ9HTJX">Cloud Application Development Foundations Specialization</a></em>, Coursera/IBM</h3>
+          <span class="tenure">2021</span>
+          
+          </div>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/WH9EKVD9CL4X">Advanced Data Science with IBM Specialization</a></em>, Coursera/IBM</h3>
+          <span class="tenure">2021</span>
+          
+          </div>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/F4V955T2GMSH">DeepLearning.AI TensorFlow Developer Specialization</a></em>, Coursera/Deeplearining.ai</h3>
+          <span class="tenure">2020</span>
+          
+          </div>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BZQG5NK79BTA">IBM Data Science Specialization</a></em>, Coursera/IBM</h3>
+          <span class="tenure">2020</span>
+          
+          </div>
+          <div>
+          <h3><em><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYGGR8K6BV2H">IBM AI Engineering Specialization</a></em>, Coursera</h3>
+          <span class="tenure">2020</span>
+          
+          </div>
+      </section>
+
+      
+      <hr>
+      <section id="languages">
+          <header>
+            <span class="fa fa-lg fa-language"></span>  <h2>languages</h2>
+          </header>
+        <table>
+          <thead>
+            <tr>
+              <th>Language</th>
+              <th>Proficiency</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="width: 20%;">English</td>
+              <td>Native Speaker</td>
+            </tr>
+            <tr>
+              <td style="width: 20%;">Dutch</td>
+              <td>Intermediate</td>
+            </tr>
+            <tr>
+              <td style="width: 20%;">Afrikaans</td>
+              <td>Native Speaker</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+
+      
+
+    </main>
+  </body>
+</html>

@@ -1,0 +1,2891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <w:ignoreSubtree w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2"/>
+  <o:DocumentProperties>
+    <o:Title>Resume for Robert J Czanik, Ph.D.</o:Title>
+    <o:Author>Robert J Czanik, Ph.D.</o:Author>
+    <o:Keywords>resume;CV</o:Keywords>
+    <o:LastAuthor>Robert J Czanik, Ph.D.</o:LastAuthor>
+    <o:Revision>1</o:Revision>
+    <o:TotalTime>60</o:TotalTime>
+    <o:Created>2015-12-16T17:38:00Z</o:Created>
+    <o:LastSaved>2015-12-16T18:32:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>241</o:Words>
+    <o:Characters>1379</o:Characters>
+    <o:Lines>11</o:Lines>
+    <o:Paragraphs>3</o:Paragraphs>
+    <o:CharactersWithSpaces>1617</o:CharactersWithSpaces>
+    <o:Version>15</o:Version>
+  </o:DocumentProperties>
+  
+  <w:fonts>
+    <w:defaultFonts w:ascii="Calibri" w:fareast="Calibri" w:h-ansi="Calibri" w:cs="Calibri"/>
+  
+  
+    <w:font w:name="Calibri">
+      <w:panose-1 w:val="02020603050405020304"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="Roman"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="E0002AFF" w:usb-1="C0007841" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="000001FF" w:csb-1="00000000"/>
+    </w:font>
+  
+  
+    <w:font w:name="Calibri">
+      <w:panose-1 w:val="020F0502020204030204"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="Swiss"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="A00002EF" w:usb-1="4000207B" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="0000009F" w:csb-1="00000000"/>
+    </w:font>
+  
+  </w:fonts>
+  <w:lists>
+    <w:listDef w:listDefId="1">
+      <w:lsid w:val="602C53DD"/>
+      <w:plt w:val="HybridMultilevel"/>
+      <w:tmpl w:val="61849B8C"/>
+      <w:lvl w:ilvl="0" w:tplc="DD7ED086">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="•"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="720" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="1440" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2160" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2880" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="3600" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="4320" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5040" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5760" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="6480" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:list w:ilfo="1">
+      <w:ilst w:val="1"/>
+    </w:list>
+  </w:lists>
+  <w:styles>
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal"/>
+      <w:rsid w:val="002743C8"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <wx:font wx:val="Calibri"/>
+        <w:sz-cs w:val="24"/>
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+      </w:rPr>
+      <w:pPr>
+        <w:jc w:val="both"/>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading1">
+      <w:name w:val="heading 1"/>
+      <wx:uiName wx:val="Heading 1"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading1Char"/>
+      <w:rsid w:val="00505903"/>
+      <w:pPr>
+        <w:spacing w:before="100" w:before-autospacing="on"/>
+        <w:outlineLvl w:val="0"/>
+        <w:pBdr>
+          <w:top w:val="single" w:sz="6" w:space="1" w:color="EEEEEE" />
+        </w:pBdr>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:color w:val="AEAAAA"/>
+        <w:kern w:val="36"/>
+        <w:sz w:val="40"/>
+        <w:sz-cs w:val="40"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading2">
+      <w:name w:val="heading 2"/>
+      <wx:uiName wx:val="Heading 2"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading2Char"/>
+      <w:rsid w:val="00505903"/>
+      <w:pPr>
+        <w:spacing w:before="120"/>
+        <w:outlineLvl w:val="1"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:caps/>
+        <w:sz-cs w:val="36"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading3">
+      <w:name w:val="heading 3"/>
+      <wx:uiName wx:val="Heading 3"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading3Char"/>
+      <w:rsid w:val="001B7422"/>
+      <w:pPr>
+        <w:spacing w:before="240" w:after="100" w:after-autospacing="on"/>
+        <w:outlineLvl w:val="2"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+      <w:name w:val="Default Paragraph Font"/>
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+      <w:name w:val="Normal Table"/>
+      <wx:uiName wx:val="Table Normal"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa"/>
+          <w:left w:w="108" w:type="dxa"/>
+          <w:bottom w:w="0" w:type="dxa"/>
+          <w:right w:w="108" w:type="dxa"/>
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="NoList">
+      <w:name w:val="No List"/>
+    </w:style>
+    <w:style w:type="character" w:styleId="Hyperlink">
+      <w:name w:val="Hyperlink"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:strike w:val="off"/>
+        <w:dstrike w:val="off"/>
+        <w:color w:val="00ACA9"/>
+        <w:u w:val="none"/>
+        <w:effect w:val="none"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="FollowedHyperlink">
+      <w:name w:val="FollowedHyperlink"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:strike w:val="off"/>
+        <w:dstrike w:val="off"/>
+        <w:color w:val="7B0796"/>
+        <w:u w:val="none"/>
+        <w:effect w:val="none"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading2Char">
+      <w:name w:val="Heading 2 Char"/>
+      <w:link w:val="Heading2"/>
+      <w:rsid w:val="00505903"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:caps/>
+        <w:sz-cs w:val="36"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading3Char">
+      <w:name w:val="Heading 3 Char"/>
+      <w:link w:val="Heading3"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:fareast="Calibri" w:h-ansi="Calibri" w:cs="Calibri"/>
+        <w:color w:val="1F4D78"/>
+        <w:sz w:val="24"/>
+        <w:sz-cs w:val="24"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="NormalWeb">
+      <w:name w:val="Normal (Web)"/>
+      <w:basedOn w:val="Normal"/>
+      <w:rsid w:val="001B7422"/>
+      <w:pPr>
+        <w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading1Char">
+      <w:name w:val="Heading 1 Char"/>
+      <w:link w:val="Heading1"/>
+      <w:rsid w:val="00505903"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:color w:val="AEAAAA"/>
+        <w:kern w:val="36"/>
+        <w:sz w:val="40"/>
+        <w:sz-cs w:val="40"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Strong">
+      <w:name w:val="Strong"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:b/>
+        <w:b-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Emphasis">
+      <w:name w:val="Emphasis"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:i/>
+        <w:i-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="tenure">
+      <w:name w:val="tenure"/>
+      <w:basedOn w:val="DefaultParagraphFont"/>
+      <w:rsid w:val="001B7422"/>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Title">
+      <w:name w:val="Title"/>
+      <w:basedOn w:val="Normal"/>
+      <w:next w:val="Normal"/>
+      <w:link w:val="TitleChar"/>
+      <w:rsid w:val="002D3B7B"/>
+      <w:pPr>
+        <w:contextualSpacing/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <wx:font wx:val="Calibri"/>
+        <w:b/>
+        <w:spacing w:val="-10"/>
+        <w:kern w:val="28"/>
+        <w:sz w:val="48"/>
+        <w:sz-cs w:val="48"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="TitleChar">
+      <w:name w:val="Title Char"/>
+      <w:link w:val="Title"/>
+      <w:rsid w:val="002D3B7B"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:spacing w:val="-10"/>
+        <w:kern w:val="28"/>
+        <w:sz w:val="48"/>
+        <w:sz-cs w:val="48"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="ListParagraph">
+      <w:name w:val="List Paragraph"/>
+      <w:basedOn w:val="Normal"/>
+      <w:rsid w:val="00C146CA"/>
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:contextualSpacing/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Summary">
+      <w:name w:val="Summary"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="SummaryChar"/>
+      <w:rsid w:val="00A210E1"/>
+      <w:pPr>
+        <w:spacing w:before="120"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="SummaryChar">
+      <w:name w:val="Summary Char"/>
+      <w:link w:val="Summary"/>
+      <w:rsid w:val="00A210E1"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:sz-cs w:val="24"/>
+        <w:sz w:val="24"/>
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:docPr>
+    <w:view w:val="print"/>
+    <w:zoom w:percent="98"/>
+    <w:doNotEmbedSystemFonts/>
+    <w:defaultTabStop w:val="720"/>
+    <w:characterSpacingControl w:val="DontCompress"/>
+    <w:webPageEncoding w:val="unicode"/>
+    <w:optimizeForBrowser/>
+    <w:allowPNG/>
+    <w:validateAgainstSchema/>
+    <w:saveInvalidXML w:val="off"/>
+    <w:ignoreMixedContent w:val="off"/>
+    <w:alwaysShowPlaceholderText w:val="off"/>
+    <w:compat>
+      <w:breakWrappedTables/>
+    </w:compat>
+    <wsp:rsids>
+      <wsp:rsidRoot wsp:val="00C146CA"/>
+      <wsp:rsid wsp:val="000A3AF0"/>
+      <wsp:rsid wsp:val="001B7422"/>
+      <wsp:rsid wsp:val="002743C8"/>
+      <wsp:rsid wsp:val="002865F0"/>
+      <wsp:rsid wsp:val="002D3B7B"/>
+      <wsp:rsid wsp:val="00397D4D"/>
+      <wsp:rsid wsp:val="00437135"/>
+      <wsp:rsid wsp:val="00505903"/>
+      <wsp:rsid wsp:val="00606071"/>
+      <wsp:rsid wsp:val="006C2CFB"/>
+      <wsp:rsid wsp:val="00771B3E"/>
+      <wsp:rsid wsp:val="007D096C"/>
+      <wsp:rsid wsp:val="009452CA"/>
+      <wsp:rsid wsp:val="00A210E1"/>
+      <wsp:rsid wsp:val="00B43FDC"/>
+      <wsp:rsid wsp:val="00C146CA"/>
+      <wsp:rsid wsp:val="00C77315"/>
+      <wsp:rsid wsp:val="00CD3781"/>
+      <wsp:rsid wsp:val="00E578D4"/>
+      <wsp:rsid wsp:val="00EA0B64"/>
+      <wsp:rsid wsp:val="00FE101B"/>
+    </wsp:rsids>
+  </w:docPr>
+  <w:body>
+    <wx:sect>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="007D096C" wsp:rsidP="00C146CA">
+        <w:pPr>
+          <w:pStyle w:val="Title"/>
+          <w:tabs>
+            <w:tab w:val="right" w:pos="9360"/>
+          </w:tabs>
+        </w:pPr>
+        <w:r>
+          <w:t>Robert J Czanik, </w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:color w:val="00ACA9"/>
+          </w:rPr>
+          <w:t>Ph.D.</w:t>
+        </w:r>
+        <w:r>
+          <w:tab/>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:color w:val="DADADA"/>
+          </w:rPr>
+          <w:t>ML Engineer</w:t>
+        </w:r>
+      </w:p>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00A210E1">
+        <w:pPr>
+          <w:pStyle w:val="Summary"/>
+        </w:pPr>
+        <w:r><w:rPr></w:rPr><w:t>I am an experienced machine learning engineer who has worked on numerous data science solutions for multiple companies and clients.
+ My main focus is providing end-to-end cloud-based solutions to clients. This all is done by doing all the work needed for conceptualizing, developing, and productization of a machine learning solution. I also have the certifications to back up my skillset: MLOps, data science, data engineering, and full-stack cloud development. My background is in open-source technologies, mainly on the Linux-tech stack. Of these technologies I the am strongest in RDMS, Python, R, ETL and the development of data science use cases as web-apps. 
+ My most recent experience lies in working as an MLOps engineer, where data science use cases are developed to completion and put into a production state.
+ I am also a strong leader with a strategic and entrepreneurial mindset; Enabling me to have also led teams in building solutions using Agile and Scrum. As a strong communicator I had no challenge in regular engagements with stakeholders, technical teams, and the delivery team. Which also requires me to listen to all parties involved and to understand the problem holisticaly. This is done by creating a lateral understanding of a problem and develop the best outcome, and elegant solution for any client.</w:t></w:r>
+      </w:p>
+      <wx:sub-section>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+    </w:pPr>
+    <w:r wsp:rsidRPr="00C146CA">
+      <w:t>SKILLS</w:t>
+    </w:r>
+  </w:p>
+  <w:tbl>
+    <w:tblPr>
+      <w:tblW w:w="0" w:type="auto"/>
+      <w:tblLook w:val="04A0"/>
+    </w:tblPr>
+    <w:tblGrid>
+      <w:gridCol w:w="3000"/>
+      <w:gridCol w:w="8000"/>
+    </w:tblGrid>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>Azure</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Synapse  Dev Ops  Data factory  SQL server  AKS  Azure Functions</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>AWS</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Red Shift  Lambda  EC2  S3</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>IBM Cloud</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>OpenShift  Dev Ops  Functions  Watson Studio  NLU</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>ML suites</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>TensorFlow  PyTorch  NumPy  SciPy  PySpark</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>Visualization</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Matplotlib  Seaborn  Tableau  ggplot2</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>ML Methods</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Time Series  Deep Learning  Clustering  Computer Vision  NLP  Regression  GenAI  LLM</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>Databases</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Elastic search  SQL Server  PostgreSQL  DataBricks  Apache Spark</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>Containers</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Vagrant  Kubernetes  Docker  Keda.sh</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>Methodologies</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Agile  DevOps  MLOps</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>Infra as code</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Ansible</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>Programming</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Python  Bash  Typescript  Javascript  Java  Scala  PowerShell</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="18"/>
+              <w:caps/>
+              <w:color w:val="00ACA9"/>
+            </w:rPr>
+            <w:t>Soft skills</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:spacing w:after="0"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:sz w:val="18"/>
+            </w:rPr>
+            <w:t>Leadership  Strategic Thinking  Solution Architecting  Enterpreneurial</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+  </w:tbl>
+</wx:sub-section>
+
+
+      <wx:sub-section>
+
+      <wx:pBdrGroup>
+        <wx:borders>
+          <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+        </wx:borders>
+        <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+          <w:pPr>
+            <w:pStyle w:val="Heading1"/>
+            <w:ind w:left="-720"/>      
+          </w:pPr>
+          <w:r>
+            <w:pict>
+              <w:binData w:name="wordml://03000003.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAASZQTFRFv8HDv8HOv8HGv8LIv8TTv8zdv8LOv8bVv8LEv8HEv8HKv8rbv8LQv8HIv8jXv8HMv8LKv8TQz8bEw8LEw8LGydDfyczOz8jGw8jOz8zKw8HDwcbMz8zOycTDy8zOzcHD1cTDxcHDz8LD3crEwcHDwcLEw8LDycHDx8HD0cLDy8HD1drb3dTMy9Tb3drTycLDwcrV3drb1cjE29rb287Izdz/z9zsxdDky9r7ydbs2/X/2/H/1eXw79LG79zQ69bK7dLG487E897Q89bK/+3d///d/+nT8+vd//XZ/+fT//HZ/ePS8+XV8+/f//vb9///4f//7//////q4evw8+/s6+/w7f/////o/f//4+/w8+/w7+/w4fv/4//////59+/w8/P5////sDySyAAAAP9JREFUSMdjSCQaMIwqHZJKXYSEsQARUX9MpbYMWAFjAD2VMomJMzBISEoxSMvIMjDLieNRyhLoKs8YEKTAYArksia6KeJWyhZsJ8Vk5q7EYB6izMAeaq9CHW+pqjEwcAAxpzDQQFUVvG71UOeyArrVAuxWTzxuZQnzUueyDgcpdWDgjvCWoncU8ET6aPDa+GoyWEY5MvBFO0nh85afFn8MUVEADixVYEBBAkuNOm4V0NZR4dTV02cwMDRiEDQ2oU5yIcFUUpMLHOANAVC4wlXidysothg4wLlahUBsgQCXFQoXn1KoHJWVkuAAuLdwK3XGEQWxmErj4qOwgQS4AgDkC738cGCe/AAAAABJRU5ErkJggk==</w:binData>
+              <v:shape id="_x0000_i1026" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+                <v:imagedata src="wordml://03000003.png" o:title="fa-building"/>
+              </v:shape>
+            </w:pict>
+          </w:r>
+          <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+            <w:t>EMPLOYMENT</w:t>
+          </w:r>
+        </w:p>
+      </wx:pBdrGroup>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Cloud/Data Engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://skyworkz.nl/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Skyworkz</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jan 2023 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Skyworkz is a boutique cloud consultancy based in Utrecht and helps companies in their Cloud journey. In my role as a machine learning engineer I help companies by building data science focused solutions primarily in the cloud. Working for Skyworkz gives me an significant advantage: I can use the the experience of brilliant colleagues as reference over a large range of technologies. This enables me to develop the highest quality solutions for clients and keep improving delivery.</w:t></w:r>
+    </w:p>
+
+
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Senior Machine Learning Engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.union-investment.com/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Union Investment (via Skyworkz)</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Feb 2023 — Sep 2023</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>For the period spent at Union-Investment I worked as a staff engineering that supported a larger team in the design and development of a machine learning based stock price validation system from various stock price providers. The system worked on a principle of streaming prices received from various stock brokers over an Azure service bus through a verification model. The price validator would receive feedback from end-user stock brokers that would indicate if prices validated by the model were correct. The retraining, serving and deployment of the model was automated. For a newly trained model to have been deployed to production a performance report was sent with a Jira ticket to the business department to accpet or reject.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Doing the solutions architecture of the retraining of a new model and the deployment of the model to production.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developing KEDA-based services that provide model predictions via streaming records to and from Azure service bus.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Develop a service that deploys the latest version of a model to production or rollback to a previous version used in production on demand.</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Azure DevOps  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  MLflow  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Azure Machine Learning Studio  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Keda  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Azure Service Bus  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  SQL Server  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Event based architecture  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Machine Learning engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.abnamro.com/en/home">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>ABN Amro (via Capgemini)</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Sep 2022 — Dec 2022</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>I worked as a part of ABN AMRO ML-Engineering&amp;apos;s Centre of Excellence, which is a central team serving the whole bank&amp;apos;s data science engineering needs. Across the bank there are various data science teams who develop use cases that serve internal or clients with improving value. The engineering part of the journey is all run on the Azure stack, where airflow is used to run the workflows for data science use cases seemlessly and MLflow is used to track and give feedback to data science teams on model performance.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Taking various new use cases from either POC or MVP state to production ready.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Serving as a single point of contact for very specialised data science teams their engineering needs during deployment.</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Azure Dev Ops  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  MLflow  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Airflow  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Python  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Databricks  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>TAM+Machine Learning engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://logius.nl/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Logius (via Capgemini)</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Apr 2022 — Aug 2022</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Logius run specific systems for the &amp;apos;Ministerie van Binnenlandse Zaken&amp;apos; on a virtual cloud-based in AWS. To monitor the performance of the system the ELK stack is used for logging data. To determine when the system might become heavy under load demand a toy model was built to show whether the system could fall over in periods of high demand, and plan upscaling the system before such events occurred. This was done using the ELK stack&amp;apos;s machine-learning libraries.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Supported the infastructure and server runtime on the servers running kubernetes clusters</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed a toy model that makes recommendations for system configurations based on performance demand.</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  ELK  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  RHEL  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Ansible  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  AWS  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Machine Learning engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.nn-group.com/home.htm">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Nationale Nederlanden (via Capgemini)</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jan 2022 — Mar 2022</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>I designed and developed a time series based POC solution for Nationale Nederlanden, which predicted the number of offices occupiers to their main offices. This was a time series based regression model predicting the maximum number of offices workers expected in their office facilities.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>The POC model was up to 78% accurate during corona times and was put into production.</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Databricks  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Azure Data Factory  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Data engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://mwingz.be/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>MWingz (via Capgemini)</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Nov 2021 — Dec 2021</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>In a project with a Belgium telecoms company, Mwingz I worked on the design and development of extracting metadata from legacy XML files to a Dynamics 365 data warehouse on Azure.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>The ETL operation significantly increased the transfer time fot the business from the legacy system.</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Databricks  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Azure Data Factory  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Dynamics 365 database  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  XML  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Senior Consultant | Cloud DevOps/Machine Learning engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.linkedin.com/company/capgemini/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Capgemini</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Nov 2021 — Dec 2022</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>On internal projects, I developed an NLP sentiment analysis model for healthcare providers based on the Dutch website </w:t></w:r><w:r><w:rPr></w:rPr><w:t>zorgkaartnederland.nl</w:t></w:r><w:r><w:rPr></w:rPr><w:t>, where subjects that are a concern in the healthcare system by the larger public were highlighted. Followed by a project for the internal subsidiary team where the ratio of flora against paving is identified from optical and infrared images, which would help trace possible causes for flooding events during extreme weather events.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Lead two junior data scientist in developing part of a computer vision idetifying objects in gardens model using satelite images.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed a POC that highlighted subjects/areas of the Dutch healthcare system that could be improved on based on online healthcare providors.</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  TensorFlow  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  NLP  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Satelite Imaging  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Sentiment Analysis  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Technical Lead, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.linkedin.com/company/explore-ai/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>EXPLORE-AI</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Mar 2021 — Oct 2021</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>I lead two teams building analytics tools for a large water utility company in the UK. the first data product generated reports that were sent to environmental groups and regulators. The second product generated analytics reports on both clean and wastewater asset reporting of alarms across the whole network of the water utility.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and lead a team of six developing one MVP to completion, in time and in budget.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and lead a team of eight while training a new technical lead up the a point shortly before completion of another MVP.</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Databricks  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Azure data factory  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  React  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  SQL Server  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Senior Data Scientist, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.linkedin.com/company/explore-ai/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Explore-AI</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Oct 2020 — Feb 2021</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>I helped a data engineering team maintain our Databricks environment on the Azure cloud platform for a large water utility company. I also looked into time series based datasets from which asset failures were supposed to identify failing assets.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Spontanious time serious analysis of assets highlighted when assets most likely failed</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Helped with the upgrade and testing of Databricks environment across the whole organisation to a new LTS version.</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Databricks  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  PySpark  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Times series  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Data Scientist/Analyst, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.linkedin.com/company/thoroughtec-simulation/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>ThoroughTec Simulation</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Nov 2019 — Oct 2020</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>ThoroughTech simulation is a company that builds simulators of large land vehicles used in the mining industry. As part of their product line of providing driver training, and online training management system (TMS) was planned and developed. As part of this training product and IoT device monitoring, driver behaviour would be developed. This device would be attached to a truck and monitor if someone drove an unsafe manner.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Primarily wrote SQL stored procedures used for aggregation and data analytics</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Containerised the solution</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  SQL Server  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Synthetic datasets  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Times series  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Docker  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  IoT  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Data Scientist, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.linkedin.com/company/vantage-data/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Vantage Data</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Mar 2019 — Aug 2019</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>I worked on various time-series analysis in Alteryx, Python and R. The main focus was to model demand forecasting figure for a major retail supplier of fast-moving consumer goods.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>The model, which was a hybrid model of an XGBOOST regression and LSTM deep learning model which was accurate up to 90% for their 12-month and 52-week prediction figures</w:t></w:r>
+    </w:p>
+
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="A5A5A5"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Time Series  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Deep learning  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr><w:color w:val="A5A5A5"/><w:sz w:val="16"/><w:sz-cs w:val="20"/><w:bdr w:val="dotted" w:sz="4" w:space="0" wx:bdrwidth="10" w:color="356C89"/></w:rPr><w:t>  Predictive Analytics  </w:t></w:r></w:t>
+      <w:t><w:r><w:rPr></w:rPr><w:t>  </w:t></w:r></w:t>
+    </w:p>
+    
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Data Engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.linkedin.com/company/blake-group/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Blake Group</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Oct 2018 — Mar 2019</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:spacing w:after="120"/>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>The Blake Group is primarily a debt collection company that also hosts some digital products. One of these products, WiFire provides free WiFi access in large shopping centers. The primary selling point of the WiFi service is targeted online advertising to users of the WiFi network, based on identifying user interests.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>Highlights:</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>I optimize and maintain ETL data pipelines running data on AWS EC2 VMs. The pipelines transmuted the URLs visited by each user of the WiFi network and matched them with previous instances of the same users on the network.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>I developed a POC which identifies a user’s interests based on the content of unencrypted URLs that they visited.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>The POC application was written in the form of a Python web scraper together with an interest builder running a NLP model.</w:t></w:r>
+    </w:p>
+
+
+
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+
+      
+
+      
+
+      
+
+      <wx:sub-section>
+
+      <wx:pBdrGroup>
+        <wx:borders>
+          <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+        </wx:borders>
+        <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+          <w:pPr>
+            <w:pStyle w:val="Heading1"/>
+            <w:ind w:left="-720"/>      
+          </w:pPr>
+          <w:r>
+            <w:pict>
+              <w:binData w:name="wordml://03000004.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAaFQTFRFv8HDv8LIv8HGv8HEv8HKv8HMv8jXv8HOv8jZv8TT3dLS2c7Kw8HDwcbM08rIwcHDwcTKz9Lbz8jGy9DXy8bEyczTycTDxcrSx8LDw8jV2dDMxcHD3dLOw8jO1cTDx8rSwc7fzdLbz8LD1czK3dLTx8HD28jDy8HDy8zOz8rI0cLD3crD18jE0cjGyc7Z29LQz8rKxcLEw8LEw8TKy8zQ1djdzcHD1drk09bi09jm0dbizdz/xdLqy9jsxdTswc7i3ePs2eHo2+Ps2e3/z+H/3ev/2/X/3fn/2e//z+H71en/69zT6djS49LO/d7Q6drT4czD59TQ/97O/drM79LG5c7E8ePZ+eHS7eHX8+Pb/+/X/ePS8ePb//Xb9eXZ7+Pd///d/+nT/+HQ///7+evk8fX7///59+fi6/P5//v16ev1/f////nz5efz+////fXs+fv/+/Po9/n/6////evi9///8/n////q//nu4+fz///i+fHw9fX7///18//q4f/q8//i//nm6+/7///o+f//7///4///9+/w8+/w8/P5////rwMOhgAAAWBJREFUSMdj6CIaMIwqHVVKL6XJKVzmqUQoTUvn5mEAAl6LDLxKM8P4+BngQEAwKxu70hxvISR1EMAonJuHrjTfR4QBO2ASdShAKC30FWPAC8Qdi8BKwyUYiACSxUClJVLShFXyWpaCHZCcIoPXBbLmZUjeKpfDoYxZ3qkANQT8+FmcK/zRQ4tJtDIPPVyTAxgUQMGdGYGIA0ZF1BiAKq1SYnbpCgQHSVqkMjBmBawywJ5QcUVXGqXK4tYVAPQoOJ0kV9eAU4MUMBit0ZVG87C616pBYh5sXmaMMjjVYCiNVWdgYKuDBwKjhibcxehKg4Bi7PVYw8sGm6kNWsQo7QpmYPGo1cYWA57oSkMYmLy6GnUwVdpmoysNBbs/OU4XNbL0mjCiABROdpCsEK9vYGgEBMYmpmiRBVHaDPS8PXGZO8GMgYGjhSilicDEzdlKlNIkYOSwtxGlNK29o6OToFsBkPOxfsuGle0AAAAASUVORK5CYIJ=</w:binData>
+              <v:shape id="_x0000_i1026" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+                <v:imagedata src="wordml://03000004.png" o:title="fa-mortar-board"/>
+              </v:shape>
+            </w:pict>
+          </w:r>
+          <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+            <w:t>EDUCATION</w:t>
+          </w:r>
+        </w:p>
+      </wx:pBdrGroup>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>North-West University</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2013 — 2019</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Doctor of Philosophy - PhD: Space Physics</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>North-West University</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2011 — 2012</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>MSc:Astrophysics</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>North-West University</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2009 — 2010</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>BSc. Hons: Physics</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>North-West University</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2006 — 2008</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>BSc: Physics-Mathematics and Applied mathematics</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+
+      <wx:sub-section>
+
+      <wx:pBdrGroup>
+        <wx:borders>
+          <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+        </wx:borders>
+        <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+          <w:pPr>
+            <w:pStyle w:val="Heading1"/>
+            <w:ind w:left="-720"/>      
+          </w:pPr>
+          <w:r>
+            <w:pict>
+              <w:binData w:name="wordml://03000007.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUFQTFRFv8HDv8HEv8bVv8HOv8HMv8HKv8zdv8LSv8TTv8TSv8jZv8HGv8LIv8LQv8LKv8HI08zOz8zOz87TzcHDy8HDwcHDw8LEwcLE1cTDzcLDw87f18jExcHDx8LDwcTK3dTM0djb08LD0cbDw8rVwczdzdzxzdz/xdLmw9Dk0djkzdrw0droz97xwdDky9jo3eXw2+/w2e3/0+P/z+H/0+P71ePx7dLI79LG/dzO4crD4czE99zO89bK49LM8drO5dTM7dbK99rM5dDI7+HX///d8+/Z/eHQ//Xb//Xd8e3Z7+Pd//Hf///5/f/////77///4f//+/Pw8+/w9fX76f/////q6fv////o+f//+//////x6///9fv///nm4/Po//nu+fv/4+Ps///k/fXx8+/s9/n/6/n/5f//+fHw8/P5////sapGIwAAASVJREFUSMdjyCIaMIwqHVVKB6U+zgKCMCCk74tHqZ8ZAxJgVMWj1EUYWSkDkz/RSpkDsCoNDAICVxEUpSwGIMFgNKVuogy4AKshqlJzBkYxIEBTJQ4UEmVQQ1fKhulW9pCsrFAJopRy+GNTasHAGZaVFS6BopQrIivLXYTRCFWphySDemSWnyWKUo2srCgrBs5otMCyFmWQismyQYkt46xYaQZuE/RwBcUpj6YncsDyxtnKMDBq+WLElp+dDJZA5TPFGrHx9rJoCuW0E3AmwkAveVi08SskBuNP2n4OELXcOkTkAkeQWoS/8SlNUoSGPmGl4HjQJSobhkoQaWpyihM4pvSCUvEr9VZCClXlNDxKQ1FTlkoE0dmQN50qSv0ygpBBJqpbAYc7NrM+qyXXAAAAAElFTkSuQmCC</w:binData>
+              <v:shape id="_x0000_i1031" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+                <v:imagedata src="wordml://03000007.png" o:title="fa-trophy"/>
+              </v:shape>
+            </w:pict>
+          </w:r>
+          <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+            <w:t>CERTIFICATION</w:t>
+          </w:r>
+        </w:p>
+      </wx:pBdrGroup>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/3WYSD7BL8NHF">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Machine Learning Engineering for Production (MLOps) Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2022-11</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/QQ837H3P3D8Q">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Java Programming and Software Engineering Fundamentals Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2022-07</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/AGSTB5LXEBAL">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Applied Cloud Development Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2022-04</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/DEJMN8KC6TMB">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>IBM Full Stack Software Developer Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2022-01</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/23N3QAQ9HTJX">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Cloud Application Development Foundations Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2021-09</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/WH9EKVD9CL4X">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Advanced Data Science with IBM Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2021-02</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/F4V955T2GMSH">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>DeepLearning.AI TensorFlow Developer Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2020-09</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/BZQG5NK79BTA">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>IBM Data Science Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2020-07</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://www.coursera.org/account/accomplishments/specialization/certificate/VYGGR8K6BV2H">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>IBM AI Engineering Specialization</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2020-06</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <w:sectPr wsp:rsidR="00B43FDC" wsp:rsidRPr="000A3AF0" wsp:rsidSect="001B7422">
+        <w:pgSz w:w="12240" w:h="15840"/>
+        <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+        <w:cols w:space="720"/>
+        <w:docGrid w:line-pitch="360"/>
+      </w:sectPr>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>
