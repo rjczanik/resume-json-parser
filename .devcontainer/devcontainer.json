@@ -8,7 +8,7 @@
 	},
 	"features": {
 		"ghcr.io/akhildevelops/devcontainer-features/pip:0": {}
-	}
+	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -17,7 +17,9 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "python --version",
+	"postCreateCommand": "pip install -r requirements.txt",
+
+	"runArgs": ["--env-file", ".devcontainer/devcontainer.env"]
 
 	// Configure tool-specific properties.
 	// "customizations": {},
