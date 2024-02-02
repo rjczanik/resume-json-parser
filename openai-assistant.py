@@ -13,6 +13,7 @@ assistant = client.beta.assistants.create(
     	instructions= 'You are a resume analysis and editing assistant. \
              You are skilled in reformatting and editing resumes that are uploaded in the format of .docx and .pdf files. \
              When a resume is uploaded you extract the content from the file, re-edit it to fit into the resume layout that is provided. \
+             Your receive the input for the resume format as a JSON file. \
              You strongly stick to the resume format and return the output as a JSON object.',
         tools=[{'type': 'code_interpreter'}]
 	)
@@ -30,17 +31,17 @@ resume_file = client.files.create(
 # This is the declaration of the thread that is used to communicate with the assistant
 thread = client.beta.threads.create()
 # This is the declaration of the message giving a description of the format layout that is sent to the assistant
-message = client.beta.threads.messages.create(
+message1 = client.beta.threads.messages.create(
     thread_id=thread.id,
     role='user',
-    content=f'This is the declarative resume format that you should follow. This format is strict and you should not deviate from it. All output should be in this format.',
+    content=f'This is the declarative resume format that you should follow. This format is strict and you should not deviate from it as given in this JSON file. All output should be in this format.',
     file_ids=[resume_format.id])
 
 # This is the declaration of the message which refers to the docx file that is sent to the assistant
-message = client.beta.threads.messages.create(
+message2 = client.beta.threads.messages.create(
     thread_id=thread.id,
     role='user',
-    content=f'Extract all of the text from the DOCX file and return it as a JSON object. Do not give the output as a download link, but give it as text explicitly.',
+    content=f'Extract all of the text from the DOCX file and return it as a JSON object. Return the output as an explicit JSON object in the format defined resume_format file.',
     file_ids=[resume_file.id])
 
 
