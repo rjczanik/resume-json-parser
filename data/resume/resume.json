@@ -182,6 +182,21 @@
       ],
       "url": "https://www.linkedin.com/company/blake-group/",
       "location": "Durban, South Africa"
+    },
+    {
+      "employer": "North-West University: Center For Space Physics",
+      "position": "Research Assistant/Telescope Operator",
+      "start": "2013-01-01",
+      "end": "2017-11-30",
+      "summary": "The Center for Space Physics is one of the few centers of excellence of the North-West University on the Potchefstroom campus. The center does extensive research on heliospheric physics, high energy astrophysics and multi-wavelength astronomy. As part of the multi-wavelength group I was the in-house Python expert, focusing on automating the process of doing precise data analytics on Big Data sets. This was primarily focused on reducing, making measurements from and doing time line series analysis on optical and near-infrared images in the range of 400GB per set.",
+      "highlights": [
+        "Developed data pipelines that reduced and performed photometric measurements on large data sets. These were in the order of 400GB per set.",
+        "Automated the process of doing precise data analytics on Big Data sets with Python.",
+        "Automate the process of performing high precision spectroscopic on multi-object fibre based spectroscopy and do flux calibration on the spectra with Python."
+      ],
+      "url": "https://natural-sciences.nwu.ac.za/space-research/",
+      "location": "Potcheftroom, South Africa"
+
     }
 ]
 },

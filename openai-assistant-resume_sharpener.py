@@ -5,8 +5,8 @@ import time
 
 roles=["data engineer", "data scientist", "data architect", "machine learning engineer"]
 
-role = "ai engineer"
-description = "cloud"
+role = "data architect"
+description = "azure"
 
 # Decalring the OpenAI client that uses a specific API key
 client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
@@ -36,7 +36,7 @@ resume_format = client.files.create(
 
 # This is the declaration of the file containing the job description in HTML elements
 job_spec = client.files.create(
-    file=open(f'data/jobs/rotterdam-data-engineer.html', 'rb'),
+    file=open(f'data/jobs/azure-data-architect.html', 'rb'),
     purpose='assistants')
 
 # This is the declaration of the thread that is used to communicate with the assistant
@@ -84,7 +84,10 @@ prompt_summary = f"""Reformat the resume for a machine-learning engineer''s resu
 From the resume given in the FRESH-resume format, a new resume should be created so that it would meet all of the requirements for an azure {role} position extracted from the elements from the uploaded HTML file.
 Give the resume for a {role}, in the same FRESH-resume format that the old one for the machine learning engineer was given.
 The new resume should be returned in full, and in the format of the FRESH-resume JSON format.
-Make sure to provide the complete resume, and not just a summary."""
+Make sure to provide the complete resume, and not just a summary.
+It is very important to give an extensivley revised summary of the role in the field called "brief" in the output JSON file.
+Under each work experience, the "highlights" field should strongly focus on the skillset and the experience that is relevant to the role of a {role}.
+Please provide the new resume as a downloadable file in the JSON format."""
 
 
 # This is the declaration of the message which refers to the job spec of the file in its HTML format
@@ -140,8 +143,9 @@ def write_file_to_temp_dir(file_id, output_path):
 
 # So to get a file and write it
 file_ids = get_file_ids_from_thread(thread)
+print(file_ids)
 some_file_id = file_ids[0]
-write_file_to_temp_dir(some_file_id, f'output/{description}-{role[0]}-{role[1]}-resume.json')
+write_file_to_temp_dir(some_file_id, f'output/{description}-{role.split(" ")[0]}-{role.split(" ")[1]}-resume.json')
 
 print(messages)
 print(f"Time taken: {end_time-start_time}")
