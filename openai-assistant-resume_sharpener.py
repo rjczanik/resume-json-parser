@@ -14,7 +14,8 @@ client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 # This is the declaration of the assistant that is used to extract the data from the resume
 assistant = client.beta.assistants.create(
         name='Resume Editor',
-		model='gpt-4-1106-preview',
+		# model='gpt-4-1106-preview',
+		model='gpt-4-turbo-preview',
     	instructions= f'You are an assistant who helps to improve certain sections of a given resume. \
              You are skilled in reformatting and improving certain sections of a machine learning engineer''s resume that are given to you. \
              The job specs scraped from the website in each prompt are given as HTML files, containing Dutch description of the specific roles. \
@@ -66,28 +67,30 @@ message_format = client.beta.threads.messages.create(
     file_ids=[resume_format.id])
 
 # This is the declaration for the prompt that is used to describe the section of the resume that is to be improved
-# prompt_summary_full = """Reformat the following summary from a machine-learning engineer''s resume into the that for a data engineer: 'I am an experienced machine learning engineer who has worked on numerous data science solutions for multiple companies and clients.
-# My main focus is providing end-to-end cloud-based solutions to clients.
-# This all is done by doing all the work needed for conceptualizing, developing, and productization of a machine learning solution.
-# I also have the certifications to back up my skillset: MLOps, data science, data engineering, and full-stack cloud development.
-# My background is in open-source technologies, mainly on the Linux-tech stack.
-# Of these technologies I the am strongest in RDMS, Python, R, ETL and the development of data science use cases as web-apps. 
-# My most recent experience lies in working as an MLOps engineer, where data science use cases are developed to completion and put into a production state.
-# I am also a strong leader with a strategic and entrepreneurial mindset; Enabling me to have also led teams in building solutions using Agile and Scrum.
-# As a strong communicator I had no challenge in regular engagements with stakeholders, technical teams, and the delivery team.
-# Which also requires me to listen to all parties involved and to understand the problem holisticaly.
-# This is done by creating a lateral understanding of a problem and develop the best outcome, and elegant solution for any client.'
-# From this summary, a new summary should be created so that it would meet all of the requirements for an azure data architect position extracted from the elements from the uploaded HTML file.
-# Only give the new summary, strictly as text output."""
+#### prompt_summary_full = """Reformat the following summary from a machine-learning engineer''s resume into the that for a data engineer: 'I am an experienced machine learning engineer who has worked on numerous data science solutions for multiple companies and clients.
+#### My main focus is providing end-to-end cloud-based solutions to clients.
+#### This all is done by doing all the work needed for conceptualizing, developing, and productization of a machine learning solution.
+#### I also have the certifications to back up my skillset: MLOps, data science, data engineering, and full-stack cloud development.
+#### My background is in open-source technologies, mainly on the Linux-tech stack.
+#### Of these technologies I the am strongest in RDMS, Python, R, ETL and the development of data science use cases as web-apps. 
+#### My most recent experience lies in working as an MLOps engineer, where data science use cases are developed to completion and put into a production state.
+#### I am also a strong leader with a strategic and entrepreneurial mindset; Enabling me to have also led teams in building solutions using Agile and Scrum.
+#### As a strong communicator I had no challenge in regular engagements with stakeholders, technical teams, and the delivery team.
+#### Which also requires me to listen to all parties involved and to understand the problem holisticaly.
+#### This is done by creating a lateral understanding of a problem and develop the best outcome, and elegant solution for any client.'
+#### From this summary, a new summary should be created so that it would meet all of the requirements for an azure data architect position extracted from the elements from the uploaded HTML file.
+#### Only give the new summary, strictly as text output."""
 
-prompt_summary = f"""Reformat the resume for a machine-learning engineer''s resume given in the JSON-file into the that for a {role}.
-From the resume given in the FRESH-resume format, a new resume should be created so that it would meet all of the requirements for an azure {role} position extracted from the elements from the uploaded HTML file.
-Give the resume for a {role}, in the same FRESH-resume format that the old one for the machine learning engineer was given.
-The new resume should be returned in full, and in the format of the FRESH-resume JSON format.
-Make sure to provide the complete resume, and not just a summary.
-It is very important to give an extensivley revised summary of the role in the field called "brief" in the output JSON file.
-Under each work experience, the "highlights" field should strongly focus on the skillset and the experience that is relevant to the role of a {role}.
-Please provide the new resume as a downloadable file in the JSON format."""
+# prompt_summary = f"""Reformat the resume for a machine-learning engineer''s resume given in the JSON-file into the that for a {role}.
+# From the resume given in the FRESH-resume format, a new resume should be created so that it would meet all of the requirements for an azure {role} position extracted from the elements from the uploaded HTML file.
+# Give the resume for a {role}, in the same FRESH-resume format that the old one for the machine learning engineer was given.
+# The new resume should be returned in full, and in the format of the FRESH-resume JSON format.
+# Make sure to provide the complete resume, and not just a summary.
+# It is very important to give an extensivley revised summary of the role in the field called "brief" in the output JSON file.
+# Under each work experience, the "highlights" field should strongly focus on the skillset and the experience that is relevant to the role of a {role}.
+# Please provide the new resume as a downloadable file in the JSON format."""
+prompt_summary = f"""Create a FRESH-resume in JSON format for an Azure {role}, reusing the elements from the provided machine learning engineer's resume in the same format. The new resume should include an extensively revised summary of the role in the "brief" field. Under each work experience, the "highlights" field should strongly focus on the skillset and experience relevant to the role of an Azure {role}. The complete resume should be provided as a downloadable file in JSON format, ensuring that it meets all the requirements for the specified position.
+"""
 
 
 # This is the declaration of the message which refers to the job spec of the file in its HTML format
